@@ -15,13 +15,13 @@ The performance of the trained YOLOv8 model is evaluated using the following met
 ![Metrics Image](https://storage.googleapis.com/roboflow-platform-cache/tK1MTcXnQBerH07Z5XG0a07fY6M2/0UFJ6Xr15lnGmKBJQ9A6/3/results.png)
 
 ## Implementation
-<img src="https://i.ibb.co/ct2R2W5/Screenshot-2024-04-18-at-11-29-09-PM.png" alt="Screenshot-2024-04-18-at-11-29-09-PM" border="0">
-<img src="https://i.ibb.co/1mtfwhL/Screenshot-2024-04-18-at-11-29-22-PM.png" alt="Screenshot-2024-04-18-at-11-29-22-PM" border="0">
-<img src="https://i.ibb.co/2S3959w/Screenshot-2024-04-18-at-11-29-45-PM.png" alt="Screenshot-2024-04-18-at-11-29-45-PM" border="0">
+<a href="https://ibb.co/jHgJLnw"><img src="https://i.ibb.co/V32wvfC/Screenshot-2024-04-18-at-11-29-09-PM.jpg" alt="Screenshot-2024-04-18-at-11-29-09-PM" border="0"></a>
+<a href="https://ibb.co/DYFrchM"><img src="https://i.ibb.co/0KLs4T9/Screenshot-2024-04-18-at-11-29-22-PM.jpg" alt="Screenshot-2024-04-18-at-11-29-22-PM" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/jw1pcGk/Screenshot-2024-04-18-at-11-29-45-PM.jpg" alt="Screenshot-2024-04-18-at-11-29-45-PM" border="0"></a><br>
+Some Overfitting
 <br>
-### Some Overfitting
-<br>
-<img src="https://i.ibb.co/xmPtYRH/Screenshot-2024-04-18-at-11-29-31-PM.png" alt="Screenshot-2024-04-18-at-11-29-31-PM" border="0">
+<a href="https://ibb.co/TLD6N3b"><img src="https://i.ibb.co/5FXmJHn/Screenshot-2024-04-18-at-11-29-31-PM.jpg" alt="Screenshot-2024-04-18-at-11-29-31-PM" border="0"></a>
+
 
 ## Usage
 To utilize the LBW Review System:
