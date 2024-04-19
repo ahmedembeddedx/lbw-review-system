@@ -34,4 +34,4 @@ To utilize the LBW Review System:
 Contributions to the LBW Review System are welcome! If you have suggestions for improvements or encounter any issues, feel free to open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License -
+This project is licensed under the Apache License
