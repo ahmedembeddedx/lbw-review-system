@@ -7,7 +7,7 @@ The LBW (Leg Before Wicket) Review System is a project aimed at detecting and an
 The YOLOv9 model has been trained on a comprehensive dataset available on [Roboflow](https://universe.roboflow.com/cricket-2rxrt/cricket-ball-detection/dataset/1). This dataset includes a wide range of cricket ball images captured from different angles and under various lighting conditions, enhancing the model's ability to accurately detect balls during matches.
 
 ## Access the pretrained model
-[Roboflow]([https://app.roboflow.com/ahmed-ws/ball-detection-3afaq/5](https://universe.roboflow.com/ahmed-ws/ball-detection-3afaq/model/5))
+[https://universe.roboflow.com/ahmed-ws/ball-detection-3afaq/model/5](https://universe.roboflow.com/ahmed-ws/ball-detection-3afaq/model/5)
 
 ## Metrics
 The performance of the trained YOLOv8 model is evaluated using the following metrics:
