@@ -4,15 +4,15 @@
 The LBW (Leg Before Wicket) Review System is a project aimed at detecting and analyzing ball movements in cricket matches, particularly focusing on LBW scenarios. The system utilizes the YOLOv8 algorithm for ball detection, trained on a diverse dataset consisting of various cricket balls (pink, red, white) and other balls such as tennis balls.
 
 ## Dataset
-The YOLOv8 model has been trained on a comprehensive dataset available on [Roboflow](https://universe.roboflow.com/cricket-2rxrt/cricket-ball-detection/dataset/1). This dataset includes a wide range of cricket ball images captured from different angles and under various lighting conditions, enhancing the model's ability to accurately detect balls during matches.
+The YOLOv9 model has been trained on a comprehensive dataset available on [Roboflow](https://universe.roboflow.com/cricket-2rxrt/cricket-ball-detection/dataset/1). This dataset includes a wide range of cricket ball images captured from different angles and under various lighting conditions, enhancing the model's ability to accurately detect balls during matches.
 
 ## Metrics
 The performance of the trained YOLOv8 model is evaluated using the following metrics:
-- Mean Average Precision (mAP): 83.0%
-- Precision: 98.9%
-- Recall: 71.4%
+- Mean Average Precision (mAP): 91.9%
+- Precision: 86.3%
+- Recall: 94.8%
 
-![Metrics Image](https://storage.googleapis.com/roboflow-platform-cache/tK1MTcXnQBerH07Z5XG0a07fY6M2/0UFJ6Xr15lnGmKBJQ9A6/3/results.png)
+![Metrics Image](https://i.ibb.co/2g5NFkC/download.png)
 
 ## Implementation
 <a href="https://ibb.co/jHgJLnw"><img src="https://i.ibb.co/V32wvfC/Screenshot-2024-04-18-at-11-29-09-PM.jpg" alt="Screenshot-2024-04-18-at-11-29-09-PM" border="0"></a>
@@ -21,6 +21,8 @@ The performance of the trained YOLOv8 model is evaluated using the following met
 Some Overfitting
 <br>
 <a href="https://ibb.co/TLD6N3b"><img src="https://i.ibb.co/5FXmJHn/Screenshot-2024-04-18-at-11-29-31-PM.jpg" alt="Screenshot-2024-04-18-at-11-29-31-PM" border="0"></a>
+
+![Ball Tracking](https://youtu.be/Oge4KK_aU78)
 
 
 ## Usage
